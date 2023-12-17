@@ -1,0 +1,23 @@
+# Blender v3.6.5 OBJ File: ''
+# www.blender.org
+o Plane
+v -0.411369 0.000000 0.411369
+v 0.411369 0.000000 0.411369
+v -0.411369 0.000000 -0.411369
+vt 0.000000 0.000000
+vt 0.000000 0.000000
+vt 0.000000 0.000000
+vn 0.0000 -1.0000 0.0000
+s off
+f 3/1/1 2/2/1 1/3/1
+
+# v = vertex
+# vt = texture codrinate
+# vn = nomral vector
+# f = order
+
+
+# x/y/z
+# x = indecies for vertex position
+# y = texture codrinate
+# z = normal vector

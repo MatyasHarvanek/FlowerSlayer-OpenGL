@@ -1,0 +1,77 @@
+Date : 2023-12-15 11:58:29
+Directory : c:\Code\FlowerSlayer\FlowerSlayer
+Total : 30 files,  1653 codes, 41 comments, 177 blanks, all 1871 lines
+
+Languages
++------------+------------+------------+------------+------------+------------+
+| language   | files      | code       | comment    | blank      | total      |
++------------+------------+------------+------------+------------+------------+
+| JSON       |          4 |        822 |          0 |          0 |        822 |
+| C#         |         20 |        775 |         41 |        169 |        985 |
+| XML        |          3 |         29 |          0 |          4 |         33 |
+| GLSL       |          2 |         16 |          0 |          3 |         19 |
+| Properties |          1 |         11 |          0 |          1 |         12 |
++------------+------------+------------+------------+------------+------------+
+
+Directories
++-----------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                                                      | files      | code       | comment    | blank      | total      |
++-----------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                                                         |         30 |      1,653 |         41 |        177 |      1,871 |
+| . (Files)                                                                                                 |          2 |         51 |          8 |         11 |         70 |
+| Components                                                                                                |          3 |         91 |          9 |         28 |        128 |
+| Events                                                                                                    |          1 |         48 |          0 |          9 |         57 |
+| Helpers                                                                                                   |          1 |         13 |          0 |          1 |         14 |
+| Inputs                                                                                                    |          1 |         74 |          0 |         11 |         85 |
+| Logging                                                                                                   |          1 |         25 |          6 |          4 |         35 |
+| Managers                                                                                                  |          5 |        217 |          6 |         51 |        274 |
+| Objects                                                                                                   |          4 |        248 |          0 |         51 |        299 |
+| bin                                                                                                       |          4 |        280 |          0 |          3 |        283 |
+| bin\Debug                                                                                                 |          4 |        280 |          0 |          3 |        283 |
+| bin\Debug\net6.0                                                                                          |          4 |        280 |          0 |          3 |        283 |
+| bin\Debug\net6.0 (Files)                                                                                  |          2 |        264 |          0 |          0 |        264 |
+| bin\Debug\net6.0\Shaders                                                                                  |          2 |         16 |          0 |          3 |         19 |
+| bin\Debug\net6.0\Shaders\Fragment                                                                         |          1 |          7 |          0 |          1 |          8 |
+| bin\Debug\net6.0\Shaders\Vertex                                                                           |          1 |          9 |          0 |          2 |         11 |
+| obj                                                                                                       |          8 |        606 |         12 |          8 |        626 |
+| obj (Files)                                                                                               |          4 |        576 |          0 |          0 |        576 |
+| obj\Debug                                                                                                 |          4 |         30 |         12 |          8 |         50 |
+| obj\Debug\net6.0                                                                                          |          4 |         30 |         12 |          8 |         50 |
++-----------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++-----------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| filename                                                                                                  | language   | code       | comment    | blank      | total      |
++-----------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| c:\Code\FlowerSlayer\FlowerSlayer\Components\Component.cs                                                 | C#         |         24 |          0 |         11 |         35 |
+| c:\Code\FlowerSlayer\FlowerSlayer\Components\IComponent.cs                                                | C#         |          2 |          0 |          2 |          4 |
+| c:\Code\FlowerSlayer\FlowerSlayer\Components\Renderer.cs                                                  | C#         |         65 |          9 |         15 |         89 |
+| c:\Code\FlowerSlayer\FlowerSlayer\Events\GameEvents.cs                                                    | C#         |         48 |          0 |          9 |         57 |
+| c:\Code\FlowerSlayer\FlowerSlayer\FlowerSlayer.csproj                                                     | XML        |         11 |          0 |          4 |         15 |
+| c:\Code\FlowerSlayer\FlowerSlayer\Helpers\FIleHelper.cs                                                   | C#         |         13 |          0 |          1 |         14 |
+| c:\Code\FlowerSlayer\FlowerSlayer\Inputs\Input.cs                                                         | C#         |         74 |          0 |         11 |         85 |
+| c:\Code\FlowerSlayer\FlowerSlayer\Logging\Logger.cs                                                       | C#         |         25 |          6 |          4 |         35 |
+| c:\Code\FlowerSlayer\FlowerSlayer\Managers\GameObjectManager.cs                                           | C#         |         24 |          0 |          6 |         30 |
+| c:\Code\FlowerSlayer\FlowerSlayer\Managers\Shader.cs                                                      | C#         |         71 |          0 |         14 |         85 |
+| c:\Code\FlowerSlayer\FlowerSlayer\Managers\ShaderManager.cs                                               | C#         |         41 |          1 |          6 |         48 |
+| c:\Code\FlowerSlayer\FlowerSlayer\Managers\VAO.cs                                                         | C#         |         30 |          4 |         10 |         44 |
+| c:\Code\FlowerSlayer\FlowerSlayer\Managers\VAOManager.cs                                                  | C#         |         51 |          1 |         15 |         67 |
+| c:\Code\FlowerSlayer\FlowerSlayer\Objects\Cube.cs                                                         | C#         |         45 |          0 |          7 |         52 |
+| c:\Code\FlowerSlayer\FlowerSlayer\Objects\Game.cs                                                         | C#         |         62 |          0 |         13 |         75 |
+| c:\Code\FlowerSlayer\FlowerSlayer\Objects\GameObject.cs                                                   | C#         |        100 |          0 |         16 |        116 |
+| c:\Code\FlowerSlayer\FlowerSlayer\Objects\Triangle.cs                                                     | C#         |         41 |          0 |         15 |         56 |
+| c:\Code\FlowerSlayer\FlowerSlayer\Program.cs                                                              | C#         |         40 |          8 |          7 |         55 |
+| c:\Code\FlowerSlayer\FlowerSlayer\bin\Debug\net6.0\FlowerSlayer.deps.json                                 | JSON       |        255 |          0 |          0 |        255 |
+| c:\Code\FlowerSlayer\FlowerSlayer\bin\Debug\net6.0\FlowerSlayer.runtimeconfig.json                        | JSON       |          9 |          0 |          0 |          9 |
+| c:\Code\FlowerSlayer\FlowerSlayer\bin\Debug\net6.0\Shaders\Fragment\shader.frag                           | GLSL       |          7 |          0 |          1 |          8 |
+| c:\Code\FlowerSlayer\FlowerSlayer\bin\Debug\net6.0\Shaders\Vertex\shader.vert                             | GLSL       |          9 |          0 |          2 |         11 |
+| c:\Code\FlowerSlayer\FlowerSlayer\obj\Debug\net6.0\.NETCoreApp,Version=v6.0.AssemblyAttributes.cs         | C#         |          3 |          1 |          1 |          5 |
+| c:\Code\FlowerSlayer\FlowerSlayer\obj\Debug\net6.0\FlowerSlayer.AssemblyInfo.cs                           | C#         |          9 |         10 |          5 |         24 |
+| c:\Code\FlowerSlayer\FlowerSlayer\obj\Debug\net6.0\FlowerSlayer.GeneratedMSBuildEditorConfig.editorconfig | Properties |         11 |          0 |          1 |         12 |
+| c:\Code\FlowerSlayer\FlowerSlayer\obj\Debug\net6.0\FlowerSlayer.GlobalUsings.g.cs                         | C#         |          7 |          1 |          1 |          9 |
+| c:\Code\FlowerSlayer\FlowerSlayer\obj\FlowerSlayer.csproj.nuget.dgspec.json                               | JSON       |         73 |          0 |          0 |         73 |
+| c:\Code\FlowerSlayer\FlowerSlayer\obj\FlowerSlayer.csproj.nuget.g.props                                   | XML        |         16 |          0 |          0 |         16 |
+| c:\Code\FlowerSlayer\FlowerSlayer\obj\FlowerSlayer.csproj.nuget.g.targets                                 | XML        |          2 |          0 |          0 |          2 |
+| c:\Code\FlowerSlayer\FlowerSlayer\obj\project.assets.json                                                 | JSON       |        485 |          0 |          0 |        485 |
+| Total                                                                                                     |            |      1,653 |         41 |        177 |      1,871 |
++-----------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
